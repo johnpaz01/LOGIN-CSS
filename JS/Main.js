@@ -10,7 +10,7 @@ document.addEventListener("DOMContentLoaded", function () {
   function pegarDados() {
     var usuario = document.getElementById("login").value;
     var senha = document.getElementById("senha").value;
-    //preencher a logica apos obter o login e a senha, pode ser usado
+    //preencher a lógica apos obter o login e a senha, pode ser usado
     //php, fica a seu critério!
   }
 });
